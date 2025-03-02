@@ -76,6 +76,10 @@ npm install react-router-dom
 
 to run frontend  use this command:  npm run dev
 
+For backend:
+
+npm init -y
+npm install express mongoose cors axios jsonwebtoken bcryptjs nodemailer
 
 ```
     
